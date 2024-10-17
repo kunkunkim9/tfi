@@ -1,0 +1,8 @@
+{
+  "name": "TEST_TREFI",
+  "ticker": "TTREFI",
+  "description": "",
+  "homepage": "",
+  "nonce": "",
+  "extended": "https://raw.githubusercontent.com/trefio/trefi/main/ext.json"
+}
